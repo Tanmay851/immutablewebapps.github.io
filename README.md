@@ -222,7 +222,7 @@ _Immutable Web Applications_ methodology builds on several trends in web applica
 
 - __Modern Application Frameworks:__ Angular, React, Vue, and Ember have enabled teams to build increasingly complex single-page static apps. Tools like webpack have improved the ability to create, optimize, and manage build artifacts.
 
-- __DevOps:__ The culture of DevOps has enabled web application developers to decompose and reevaluate their web application infrastructure to better serve the requirements of their web applications.
+- __DevOps:__ The culture of DevOps has enabled web application developers to decompose and re-evaluate their web application infrastructure to better serve the requirements of their web applications.
 
 - __Maturing Application Patterns & Practices:__ Backend applications and services are converging around a set of best practices that support portability, scalability, and high availability. This trend has dramatically increased the tools and services available, especially related to containers and container orchestration. Many of these practices are just now starting to be applied to static single-page web applications.
 
